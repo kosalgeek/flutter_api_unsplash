@@ -1,6 +1,8 @@
 # flutterapiunsplash
 
-A new Flutter application.
+READ ME FIRST:
+Inside repos/mainpage_repo.dart, put your own Unsplash API key at:
+```final yourAPIKey = "";```
 
 ## Getting Started
 
